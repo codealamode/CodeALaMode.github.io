@@ -22,4 +22,18 @@ I decided to use the time period from April 7th-26th for a few reasons.  Of the 
 
 For a control, I compared reported UFO sightings per capita in from April 7th-26th, 2020 with that exact same time period for the past four years.  Below is a bar graph comparing them.
 
-![UFO](/assets/img/UFO graph 1.PNG)
+![Per Capita By Region 2016-2020](/assets/img/UFO graph 1.PNG)
+
+An eyeball assessment will probably tell you that reported UFO sightings increased significantly over the lockdown period.  But for you statisticians out there, a two-sample t-test on the mean per-capita observations in 2020 and the mean per-capita observations in the preceding four years yielded p-values all below 0.001.
+
+We can also see from the graph that there seems to be a big disparity in the number of reported sightings amongst regions in the USA across all five years measured.  This begs the question - are any states reporting significantly higher numbers of UFOs than other states?
+
+After standardizing all observations from the years 2016-2019 for each state in the data set, we find that Idaho and New Hampshire yield z-scores of 3.26 and 2.65 respectively.
+
+![Top Ten 2016-2020](/assets/img/Top Ten States 2016-2019.PNG)
+
+If you look closely, you'll see that the top four states are all in very different regions of the US.  So how is it that over COVID lockdowns, the mountain regions suddenly became the hotbed of extraterrestrial visitations?  Below, you'll see that Oregon and Washington, despite not even making it into the top ten over the past four years, reported six to nine times the national average of the previous year.
+
+![Top Ten 2020](/assets/img/Top Ten States 2020.PNG)
+
+Whether it's due to high anxiety and clear Oregon skies or due to Martian neighbors popping in to say "Get well soon, Earthlings!" in a time of global crisis, we can be certain that lockdown period UFO sightings were out of this world.
