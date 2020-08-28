@@ -34,6 +34,6 @@ After standardizing all observations from the years 2016-2019 for each state in 
 
 If you look closely, you'll see that the top four states are all in very different regions of the US.  So how is it that over COVID lockdowns, the mountain regions suddenly became the hotbed of extraterrestrial visitations?  Below, you'll see that Oregon and Washington, despite not even making it into the top ten over the past four years, reported six to nine times the national average of the previous year.
 
-![Top Ten 2020](/assets/img/Top Ten States 2020.PNG)
+![Top Ten 2020](/assets/img/Top Ten States 2020 better.PNG)
 
 Whether it's due to high anxiety and clear Oregon skies or due to Martian neighbors popping in to say "Get well soon, Earthlings!" in a time of global crisis, we can be certain that lockdown period UFO sightings were out of this world.
