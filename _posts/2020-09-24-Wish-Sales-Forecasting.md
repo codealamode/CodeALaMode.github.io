@@ -55,8 +55,13 @@ Decrease sales:  Colors pink, yellow, and green, and sizes XS and 2XL+
 The above colors and sizes make sense.  Black, white, and gray match everything, whereas pink, yellow, and green are for fewer consumers.  Most of the population lies within Medium-XL, fewer people fall in the more extreme sizes like XS or 2XL+.
 
 A few key takeaways for new Wish sellers who want to make it big are this:
+
 1) Quality over price.  Consumer ratings are king!
+
 2) Make sure you're always stocked on neutral colors and normal sizes.
+
 3) Take the 30 seconds to upload a profile pic.  It could be a major factor.
+
 4) Don't invest in ad boosters; they're probably not worth it.
+
 5) Don't have badges?  Don't sweat it.  They don't help, anyway.
