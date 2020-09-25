@@ -8,7 +8,7 @@ share-img: /assets/img/thumb.jpg
 tags: [Wish, Sales, Forecasting]
 ---
 
-Wish.com, founded in 2010, is an e-commerce site that has gained popularity some three decades after the dot-com boom, to which sites like Ebay and Amazon owe their success.  So how did this late bloomer compete with the internet's used goods superstores?  According to Sam Hollis, a blogger at jilt.com, "Wish has focused their business model on one thing and one thing only: price. They’re not looking to expand into the media space, build tech gadgets, or even offer next-day delivery. Wish built their company to provide...products at the lowest possible price."
+Wish.com, founded in 2010, is an e-commerce site that has gained popularity twenty-some years after the dot-com boom, to which sites like Ebay and Amazon owe their success.  So how did this late bloomer compete with the internet's used goods retail giants?  According to Sam Hollis, a blogger at jilt.com, "Wish has focused their business model on one thing and one thing only: price. They’re not looking to expand into the media space, build tech gadgets, or even offer next-day delivery. Wish built their company to provide...products at the lowest possible price."
 
 Of course, shoppers know that lower prices generally mean lower quality.  To gather public opinion on the quality of Wish.com's goods, one need look no further than the Google search bar suggestions for Wish vs. Amazon:
 
