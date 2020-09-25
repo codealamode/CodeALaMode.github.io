@@ -39,3 +39,23 @@ After buildling the model and tuning its hyperparameters, perhaps the most infor
 
 ![Wish Permutation Importances](/assets/img/Wish Permutation Importance.png)
 
+With Wish's reputation for cheap prices and user skepticism regarding website legitimacy, it's no surprise at all that merchant rating and product rating are significantly more predictive of sales volume - even more than price!  This tells us that users are paying close attention to consumer feedback, and that it impacts their decision above any other factor.  Product price was next in importance, but shipping price was toward the bottom.  Both of them are paid with the same money - so why don't users care about shipping price?  Well, shipping price isn't on the main search page.  It's only after you have selected the item that shipping price information appears.  So, it's probably not that users don't consider shipping price, and probably more because they can't be drawn to a product feature that they can't see when comparing products.
+
+Perhaps the most interesting predictor of sales is the presence or absence of a profile picture.  There are two ways to take this.  Either of these explanations is logical, and it's possible that both are true.:
+1) Consumer psychology.  Actually seeing a picture of the merchant's face boosts confidence in seller legitimacy, in turn boosting sales.
+2) Data leakage.  One-off sellers (low sales volume) may be less likely to upload a profile picture than those that have sold multiple items.
+
+Something else that Wish merchants might want to know is that Ad Boosters have very little affect on sales volume.  If those ad boosters cost much to run, the data shows that it's not worth their money.  Another thing that consumers don't care about is where the product is shipping from, and this is probably because most sellers are in Asia.  The mindset is this:  "It's going to take forever regardless - who cares if it comes from China or Indonesia?"
+
+Color and size are somewhat predicitve, but this graph alone doesn't tell a merchant which colors or sizes are selling the most.  In order to find this out, I used a linear regression after normalizing each feature's values.  This way I could compare coefficients apples-to-apples.  These are a few of the more notable weights:
+Increase sales:  Colors black, white, gray, and purple, and sizes medium through XL.
+Decrease sales:  Colors pink, yellow, and green, and sizes XS and 2XL+
+
+The above colors and sizes make sense.  Black, white, and gray match everything, whereas pink, yellow, and green are for fewer consumers.  Most of the population lies within Medium-XL, fewer people fall in the more extreme sizes like XS or 2XL+.
+
+A few key takeaways for new Wish sellers who want to make it big are this:
+1) Quality over price.  Consumer ratings are king!
+2) Make sure you're always stocked on neutral colors and normal sizes.
+3) Take the 30 seconds to upload a profile pic.  It could be a major factor.
+4) Don't invest in ad boosters; they're probably not worth it.
+5) Don't have badges?  Don't sweat it.  They don't help, anyway.
