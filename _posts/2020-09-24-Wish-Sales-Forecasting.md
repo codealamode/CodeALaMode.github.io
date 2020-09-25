@@ -29,7 +29,7 @@ But first let's make sure the data makes sense.  It would make sense that mercha
 
 ![Merchant/Product Rating PDP](/assets/img/Wish PDP.png)
 
-40% of the sales were 'high', so if we predicted 'high sales' for every single product, we'd have 40% accuracy.  In other words, a model that scores above 40% is the goal.  This particular random forest classifier reached an accuracy of 55% after removing leakage.  (With leakage, the model was near 90% accuracy.)  The model performed relatively well in predicting when sales would be high or low.  It's predictions for medium, however, were low in accuracy.  A confusion matrix of the prediction accuracies on a validation set is below:
+40% of the sales quantities were 'high', so if we predicted 'high sales' for every single product, we'd have 40% accuracy.  In other words, a model that scores above 40% is the goal.  This particular random forest classifier reached an accuracy of 55% after removing leakage.  (With leakage, the model was near 90% accuracy.)  The model performed relatively well in predicting when sales would be high or low.  It's predictions for medium, however, were low in accuracy.  A confusion matrix of the prediction accuracies on a validation set is below:
 
 ![Wish Confusion Matrix](/assets/img/Wish Confusion Matrix.png)
 
