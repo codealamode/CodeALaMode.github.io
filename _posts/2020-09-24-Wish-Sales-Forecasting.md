@@ -16,7 +16,7 @@ Of course, shoppers know that lower prices generally mean lower quality.  To gat
 
 While Amazon's search bar suggestions of "Amazon is" yields mostly clarification questions, Wish's search bar suggestions for that same beginning are mostly asking about the website's legitimacy and safety.
 
-![Google Search Bar for Wish](/assets/img/Wish Google Search.png)
+![Google Search Bar for Wish](/assets/img/Wish Google Seach.png)
 
 It's clear that Americans are hesitant to trust the site, perhaps because of the deep discounts, or perhaps because it's newer to the scene.  To see what actually drives sales on Wish, I used a dataset of product information scraped from the website in August, 2020.  Below is an example of the information used to predict sales volume of each product.
 
