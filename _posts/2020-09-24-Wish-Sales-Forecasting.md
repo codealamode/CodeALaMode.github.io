@@ -12,8 +12,8 @@ Wish.com, founded in 2010, is an e-commerce site that has gained popularity some
 
 Of course, shoppers know that lower prices generally mean lower quality.  To gather public opinion on the quality of Wish.com's goods, one need look no further than the Google search bar suggestions for Wish vs. Amazon:
 
-![Google Search Bar for "Wish is"](/assets/img/Wish Google Search.PNG)
-![Google Search Bar for "Amazon is"](/assets/img/Amazon Google Search.PNG)
+![Google Search Bar for "Wish is"](/assets/img/Wish Google Search.png)
+![Google Search Bar for "Amazon is"](/assets/img/Amazon Google Search.png)
 
 By looking at what is commonly searched for after "Wish is", it's clear that Americans are hesitant to trust the site, perhaps because of the deep discounts, or perhaps because it's newer to the scene.
 
