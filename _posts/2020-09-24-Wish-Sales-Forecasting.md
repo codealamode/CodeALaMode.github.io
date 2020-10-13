@@ -3,7 +3,7 @@ layout: post
 title: Shoppers on Wish&#58; What's their wish?
 subtitle: Predicting Sales Volume of Products on Wish.com
 cover-img: /assets/img/Wish Logo.png
-thumbnail-img: /assets/img/UFO graph lines.PNG
+thumbnail-img: Wish Permutation Importance.png
 share-img: /assets/img/thumb.jpg
 tags: [Wish, Sales, Forecasting]
 ---
