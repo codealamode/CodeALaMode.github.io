@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shoppers on Wish: What's their wish?
+title: Shoppers on Wish&#58; What's their wish?
 subtitle: Predicting Sales Volume of Products on Wish.com
 cover-img: /assets/img/Wish Logo.png
 thumbnail-img: /assets/img/UFO graph lines.PNG
